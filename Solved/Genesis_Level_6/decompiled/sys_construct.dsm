@@ -1,0 +1,203 @@
+
+        ; Variables:
+        ;    var_1C: -28
+        ;    var_108D: -4237
+        ;    var_10DF: -4319
+        ;    var_10E0: -4320
+        ;    var_10E1: -4321
+        ;    var_10E2: -4322
+        ;    var_10E3: -4323
+        ;    var_10E4: -4324
+        ;    var_10E5: -4325
+        ;    var_10E6: -4326
+        ;    var_10E7: -4327
+        ;    var_10E8: -4328
+        ;    var_10E9: -4329
+        ;    var_10EA: -4330
+        ;    var_10EB: -4331
+        ;    var_10EC: -4332
+        ;    var_10ED: -4333
+        ;    var_10EE: -4334
+        ;    var_10EF: -4335
+        ;    var_10F0: -4336
+        ;    var_10F1: -4337
+        ;    var_10F2: -4338
+        ;    var_10F3: -4339
+        ;    var_10F4: -4340
+        ;    var_10F5: -4341
+        ;    var_10F6: -4342
+        ;    var_10F7: -4343
+        ;    var_10F8: -4344
+        ;    var_10F9: -4345
+        ;    var_10FA: -4346
+        ;    var_10FB: -4347
+        ;    var_10FC: -4348
+        ;    var_10FD: -4349
+        ;    var_10FE: -4350
+        ;    var_10FF: -4351
+        ;    var_1100: -4352
+        ;    var_1101: -4353
+        ;    var_1102: -4354
+        ;    var_1103: -4355
+        ;    var_1104: -4356
+        ;    var_1105: -4357
+        ;    var_1106: -4358
+        ;    var_1107: -4359
+        ;    var_1108: -4360
+        ;    var_1109: -4361
+        ;    var_110A: -4362
+        ;    var_110B: -4363
+        ;    var_110C: -4364
+        ;    var_110D: -4365
+        ;    var_110E: -4366
+        ;    var_110F: -4367
+        ;    var_1110: -4368
+        ;    var_1111: -4369
+        ;    var_1112: -4370
+        ;    var_1113: -4371
+        ;    var_1114: -4372
+        ;    var_112A: -4394
+        ;    var_112C: -4396
+        ;    var_1130: -4400
+
+
+             _sys_construct:
+08048aea         pushl      %ebp                                                ; DATA XREF=_main+19
+08048aeb         movl       %esp, %ebp
+08048aed         pushl      %edi
+08048aee         pushl      %esi
+08048aef         pushl      %ebx
+08048af0         subl       $0x112c, %esp
+08048af6         movl       %gs:0x14, %eax
+08048afc         movl       %eax, var_1C(%ebp)
+08048aff         xorl       %eax, %eax
+08048b01         movb       $0x7c, var_110E(%ebp)
+08048b08         movb       $0x50, var_110D(%ebp)
+08048b0f         movb       $0x4a, var_110C(%ebp)
+08048b16         movb       $0x53, var_110B(%ebp)
+08048b1d         movb       $0x5b, var_110A(%ebp)
+08048b24         movb       $0x51, var_1109(%ebp)
+08048b2b         movb       $0x18, var_1108(%ebp)
+08048b32         movb       $0x4b, var_1107(%ebp)
+08048b39         movb       $0x0, var_1106(%ebp)
+08048b40         movb       $0x3d, var_1114(%ebp)
+08048b47         movb       $0x14, var_1113(%ebp)
+08048b4e         movb       $0xe, var_1112(%ebp)
+08048b55         movb       $0x15, var_1111(%ebp)
+08048b5c         movb       $0x1f, var_1110(%ebp)
+08048b63         movb       $0x0, var_110F(%ebp)
+08048b6a         movb       $0x49, var_1105(%ebp)
+08048b71         movb       $0x42, var_1104(%ebp)
+08048b78         movb       $0x4b, var_1103(%ebp)
+08048b7f         movb       $0x5e, var_1102(%ebp)
+08048b86         movb       $0x4, var_1101(%ebp)
+08048b8d         movb       $0x4c, var_1100(%ebp)
+08048b94         movb       $0x58, var_10FF(%ebp)
+08048b9b         movb       $0x4f, var_10FE(%ebp)
+08048ba2         movb       $0x4f, var_10FD(%ebp)
+08048ba9         movb       $0x44, var_10FC(%ebp)
+08048bb0         movb       $0x45, var_10FB(%ebp)
+08048bb7         movb       $0x4e, var_10FA(%ebp)
+08048bbe         movb       $0x4f, var_10F9(%ebp)
+08048bc5         movb       $0x4, var_10F8(%ebp)
+08048bcc         movb       $0x49, var_10F7(%ebp)
+08048bd3         movb       $0x45, var_10F6(%ebp)
+08048bda         movb       $0x47, var_10F5(%ebp)
+08048be1         movb       $0x0, var_10F4(%ebp)
+08048be8         leal       var_10DF(%ebp), %eax
+08048bee         movl       $0x8049860, %ebx
+08048bf3         movl       $0x52, %edx
+08048bf8         movl       (%ebx), %ecx
+08048bfa         movl       %ecx, (%eax)
+08048bfc         movl       0xfffffffc(%ebx,%edx), %ecx
+08048c00         movl       %ecx, 0xfffffffc(%eax,%edx)
+08048c04         leal       0x4(%eax), %edi
+08048c07         andl       $0xfffffffc, %edi
+08048c0a         subl       %edi, %eax
+08048c0c         subl       %eax, %ebx
+08048c0e         addl       %eax, %edx
+08048c10         andl       $0xfffffffc, %edx
+08048c13         movl       %edx, %eax
+08048c15         shrl       $0x2, %eax
+08048c18         movl       %ebx, %esi
+08048c1a         movl       %eax, %ecx
+08048c1c         rep movsdl (%esi), (%edi)
+08048c1e         leal       var_108D(%ebp), %eax
+08048c24         movl       $0x80498c0, %ebx
+08048c29         movl       $0x71, %edx
+08048c2e         movl       (%ebx), %ecx
+08048c30         movl       %ecx, (%eax)
+08048c32         movl       0xfffffffc(%ebx,%edx), %ecx
+08048c36         movl       %ecx, 0xfffffffc(%eax,%edx)
+08048c3a         leal       0x4(%eax), %edi
+08048c3d         andl       $0xfffffffc, %edi
+08048c40         subl       %edi, %eax
+08048c42         subl       %eax, %ebx
+08048c44         addl       %eax, %edx
+08048c46         andl       $0xfffffffc, %edx
+08048c49         movl       %edx, %eax
+08048c4b         shrl       $0x2, %eax
+08048c4e         movl       %ebx, %esi
+08048c50         movl       %eax, %ecx
+08048c52         rep movsdl (%esi), (%edi)
+08048c54         movb       $0x5d, var_10F3(%ebp)
+08048c5b         movb       $0x76, var_10F2(%ebp)
+08048c62         movb       $0x7c, var_10F1(%ebp)
+08048c69         movb       $0x38, var_10F0(%ebp)
+08048c70         movb       $0x77, var_10EF(%ebp)
+08048c77         movb       $0x7e, var_10EE(%ebp)
+08048c7e         movb       $0x38, var_10ED(%ebp)
+08048c85         movb       $0x37, var_10EC(%ebp)
+08048c8c         movb       $0x56, var_10EB(%ebp)
+08048c93         movb       $0x59, var_10EA(%ebp)
+08048c9a         movb       $0x55, var_10E9(%ebp)
+08048ca1         movb       $0x5d, var_10E8(%ebp)
+08048ca8         movb       $0x4b, var_10E7(%ebp)
+08048caf         movb       $0x38, var_10E6(%ebp)
+08048cb6         movb       $0x74, var_10E5(%ebp)
+08048cbd         movb       $0x71, var_10E4(%ebp)
+08048cc4         movb       $0x6b, var_10E3(%ebp)
+08048ccb         movb       $0x6c, var_10E2(%ebp)
+08048cd2         movb       $0x36, var_10E1(%ebp)
+08048cd9         movb       $0x0, var_10E0(%ebp)
+08048ce0         subl       $0x8, %esp
+08048ce3         leal       var_110E(%ebp), %eax
+08048ce9         pushl      %eax                                                ; argument #2 for method _sys_hash
+08048cea         pushl      $0x3f                                               ; argument #1 for method _sys_hash
+08048cec         call       _sys_hash
+08048cf1         addl       $0x10, %esp
+08048cf4         subl       $0x8, %esp
+08048cf7         leal       var_1114(%ebp), %eax
+08048cfd         pushl      %eax                                                ; argument #2 for method _sys_hash
+08048cfe         pushl      $0x7b                                               ; argument #1 for method _sys_hash
+08048d00         call       _sys_hash
+08048d05         addl       $0x10, %esp
+08048d08         subl       $0x8, %esp
+08048d0b         leal       var_1105(%ebp), %eax
+08048d11         pushl      %eax                                                ; argument #2 for method _sys_hash
+08048d12         pushl      $0x2a                                               ; argument #1 for method _sys_hash
+08048d14         call       _sys_hash
+08048d19         addl       $0x10, %esp
+08048d1c         subl       $0x8, %esp
+08048d1f         leal       var_10DF(%ebp), %eax
+08048d25         pushl      %eax                                                ; argument #2 for method _sys_hash
+08048d26         pushl      $0x2                                                ; argument #1 for method _sys_hash
+08048d28         call       _sys_hash
+08048d2d         addl       $0x10, %esp
+08048d30         subl       $0x8, %esp
+08048d33         leal       var_108D(%ebp), %eax
+08048d39         pushl      %eax                                                ; argument #2 for method _sys_hash
+08048d3a         pushl      $0x7f                                               ; argument #1 for method _sys_hash
+08048d3c         call       _sys_hash
+08048d41         addl       $0x10, %esp
+08048d44         subl       $0x8, %esp
+08048d47         leal       var_10F3(%ebp), %eax
+08048d4d         pushl      %eax                                                ; argument #2 for method _sys_hash
+08048d4e         pushl      $0x18                                               ; argument #1 for method _sys_hash
+08048d50         call       _sys_hash
+08048d55         addl       $0x10, %esp
+08048d58         subl       $0x4, %esp
+08048d5b         pushl      $0x0                                                ; argument "protocol" for method j_socket
+08048d5d         pushl      $0x1                                                ; argument "type" for method j_socket
+08048d5f         pushl      $0x2                                                ; argument "domain" for method j_socket
+08048d61         call       j_socket

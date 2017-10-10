@@ -1,0 +1,1514 @@
+Welcome to Lecturer Says!
+All you have to do is very simple.
+When the text is green, you say "Yes! I will study"
+If it's red, you say "No! I won't study"
+
+Example:
+Lecturer Says: [92mDo your homework[0m
+> Yes! I will study
+
+Lecturer Says: [91mDo your homework[0m
+> No! I won't study
+
+Press Enter to continue
+Round: 1
+Lecturer Says: [92mStudy for General Education 3![0m
+>
+Round: 2
+Lecturer Says: [92mStudy for Network Fundamentals![0m
+>
+Round: 3
+Lecturer Says: [91mStudy for Communicating for Professional Effectiveness![0m
+>
+Round: 4
+Lecturer Says: [91mStudy for General Education 2![0m
+>
+Round: 5
+Lecturer Says: [91mStudy for Malware Reverse Engineering![0m
+>
+Round: 6
+Lecturer Says: [92mStudy for Applied Cryptography![0m
+>
+Round: 7
+Lecturer Says: [91mStudy for Advanced Java Programming![0m
+>
+Round: 8
+Lecturer Says: [91mStudy for Malware Reverse Engineering![0m
+>
+Round: 9
+Lecturer Says: [92mStudy for Enterprise Application Development![0m
+>
+Round: 10
+Lecturer Says: [91mStudy for InfoSec Project Development and Management![0m
+>
+Round: 11
+Lecturer Says: [91mStudy for Education and Career Guidance 2![0m
+>
+Round: 12
+Lecturer Says: [91mStudy for Digital Forensics and Investigation![0m
+>
+Round: 13
+Lecturer Says: [92mStudy for Internet of Things![0m
+>
+Round: 14
+Lecturer Says: [91mStudy for Security Policy and Incident Management![0m
+>
+Round: 15
+Lecturer Says: [91mStudy for Education and Career Guidance 1![0m
+>
+Round: 16
+Lecturer Says: [91mStudy for Ethical Hacking and Defences![0m
+>
+Round: 17
+Lecturer Says: [91mStudy for Geospatial Visualization![0m
+>
+Round: 18
+Lecturer Says: [91mStudy for Programming in Python and C![0m
+>
+Round: 19
+Lecturer Says: [92mStudy for Malware Reverse Engineering![0m
+>
+Round: 20
+Lecturer Says: [91mStudy for Network Fundamentals![0m
+>
+Round: 21
+Lecturer Says: [91mStudy for Enterprise Application Development![0m
+>
+Round: 22
+Lecturer Says: [92mStudy for Communicating for Professional Effectiveness![0m
+>
+Round: 23
+Lecturer Says: [92mStudy for General Education 1![0m
+>
+Round: 24
+Lecturer Says: [92mStudy for Essential LINUX System Administration![0m
+>
+Round: 25
+Lecturer Says: [91mStudy for Internship Programme![0m
+>
+Round: 26
+Lecturer Says: [92mStudy for Education and Career Guidance 2![0m
+>
+Round: 27
+Lecturer Says: [92mStudy for Computer Architecture and Operating Systems![0m
+>
+Round: 28
+Lecturer Says: [92mStudy for General Education 3![0m
+>
+Round: 29
+Lecturer Says: [92mStudy for Education and Career Guidance 1![0m
+>
+Round: 30
+Lecturer Says: [91mStudy for Programming Fundamentals![0m
+>
+Round: 31
+Lecturer Says: [91mStudy for Securing Linux![0m
+>
+Round: 32
+Lecturer Says: [92mStudy for Mobile Applications![0m
+>
+Round: 33
+Lecturer Says: [91mStudy for Network Fundamentals![0m
+>
+Round: 34
+Lecturer Says: [92mStudy for Malware Reverse Engineering![0m
+>
+Round: 35
+Lecturer Says: [92mStudy for Mobile Applications![0m
+>
+Round: 36
+Lecturer Says: [91mStudy for General Education 2![0m
+>
+Round: 37
+Lecturer Says: [92mStudy for Education and Career Guidance 2![0m
+>
+Round: 38
+Lecturer Says: [91mStudy for Geospatial Visualization![0m
+>
+Round: 39
+Lecturer Says: [92mStudy for Infocomm Security![0m
+>
+Round: 40
+Lecturer Says: [91mStudy for Securing Linux![0m
+>
+Round: 41
+Lecturer Says: [92mStudy for Enterprise Business Processes![0m
+>
+Round: 42
+Lecturer Says: [92mStudy for Wireless LAN Technology![0m
+>
+Round: 43
+Lecturer Says: [91mStudy for Geospatial Visualization![0m
+>
+Round: 44
+Lecturer Says: [92mStudy for Geospatial Visualization![0m
+>
+Round: 45
+Lecturer Says: [91mStudy for Programming Fundamentals![0m
+>
+Round: 46
+Lecturer Says: [91mStudy for Computer Law and Investigation![0m
+>
+Round: 47
+Lecturer Says: [92mStudy for General Education 2![0m
+>
+Round: 48
+Lecturer Says: [91mStudy for Web Client Development![0m
+>
+Round: 49
+Lecturer Says: [91mStudy for General Education 3![0m
+>
+Round: 50
+Lecturer Says: [91mStudy for Web Client Development![0m
+>
+Round: 51
+Lecturer Says: [91mStudy for Malware Reverse Engineering![0m
+>
+Round: 52
+Lecturer Says: [91mStudy for Internship Programme![0m
+>
+Round: 53
+Lecturer Says: [92mStudy for Advanced Java Programming![0m
+>
+Round: 54
+Lecturer Says: [91mStudy for Programming in Python and C![0m
+>
+Round: 55
+Lecturer Says: [92mStudy for Web Client Development![0m
+>
+Round: 56
+Lecturer Says: [92mStudy for Education and Career Guidance 2![0m
+>
+Round: 57
+Lecturer Says: [91mStudy for Internet of Things![0m
+>
+Round: 58
+Lecturer Says: [92mStudy for Ethical Hacking and Defences![0m
+>
+Round: 59
+Lecturer Says: [91mStudy for Wireless LAN Technology![0m
+>
+Round: 60
+Lecturer Says: [92mStudy for Mathematics![0m
+>
+Round: 61
+Lecturer Says: [92mStudy for General Education 2![0m
+>
+Round: 62
+Lecturer Says: [92mStudy for Education and Career Guidance 1![0m
+>
+Round: 63
+Lecturer Says: [91mStudy for Ethical Hacking and Defences![0m
+>
+Round: 64
+Lecturer Says: [91mStudy for Security Policy and Incident Management![0m
+>
+Round: 65
+Lecturer Says: [92mStudy for Geospatial Visualization![0m
+>
+Round: 66
+Lecturer Says: [91mStudy for Ethical Hacking and Defences![0m
+>
+Round: 67
+Lecturer Says: [91mStudy for Internet of Things![0m
+>
+Round: 68
+Lecturer Says: [91mStudy for General Education 2![0m
+>
+Round: 69
+Lecturer Says: [92mStudy for Database Management Systems![0m
+>
+Round: 70
+Lecturer Says: [92mStudy for Enterprise Business Processes![0m
+>
+Round: 71
+Lecturer Says: [91mStudy for Geospatial Visualization![0m
+>
+Round: 72
+Lecturer Says: [91mStudy for Education and Career Guidance 2![0m
+>
+Round: 73
+Lecturer Says: [91mStudy for Programming in Python and C![0m
+>
+Round: 74
+Lecturer Says: [91mStudy for Enterprise Business Processes![0m
+>
+Round: 75
+Lecturer Says: [91mStudy for Programming in Python and C![0m
+>
+Round: 76
+Lecturer Says: [92mStudy for Advanced Java Programming![0m
+>
+Round: 77
+Lecturer Says: [92mStudy for Geospatial Visualization![0m
+>
+Round: 78
+Lecturer Says: [91mStudy for Geospatial Visualization![0m
+>
+Round: 79
+Lecturer Says: [92mStudy for Social Innovation Project![0m
+>
+Round: 80
+Lecturer Says: [91mStudy for Programming Fundamentals![0m
+>
+Round: 81
+Lecturer Says: [91mStudy for Internet of Things![0m
+>
+Round: 82
+Lecturer Says: [91mStudy for General Education 3![0m
+>
+Round: 83
+Lecturer Says: [92mStudy for Computer Law and Investigation![0m
+>
+Round: 84
+Lecturer Says: [91mStudy for Database Management Systems![0m
+>
+Round: 85
+Lecturer Says: [91mStudy for Communicating for Professional Effectiveness![0m
+>
+Round: 86
+Lecturer Says: [92mStudy for Advanced Java Programming![0m
+>
+Round: 87
+Lecturer Says: [92mStudy for Internet of Things![0m
+>
+Round: 88
+Lecturer Says: [92mStudy for Ethical Hacking and Defences![0m
+>
+Round: 89
+Lecturer Says: [92mStudy for General Education 1![0m
+>
+Round: 90
+Lecturer Says: [92mStudy for Mathematics![0m
+>
+Round: 91
+Lecturer Says: [92mStudy for Database Management Systems![0m
+>
+Round: 92
+Lecturer Says: [91mStudy for Business Analytics![0m
+>
+Round: 93
+Lecturer Says: [91mStudy for Programming Fundamentals![0m
+>
+Round: 94
+Lecturer Says: [92mStudy for Web Client Development![0m
+>
+Round: 95
+Lecturer Says: [91mStudy for General Education 2![0m
+>
+Round: 96
+Lecturer Says: [92mStudy for Computer Law and Investigation![0m
+>
+Round: 97
+Lecturer Says: [92mStudy for General Education 2![0m
+>
+Round: 98
+Lecturer Says: [91mStudy for Computer Architecture and Operating Systems![0m
+>
+Round: 99
+Lecturer Says: [92mStudy for Web Client Development![0m
+>
+Round: 100
+Lecturer Says: [92mStudy for Infocomm Security![0m
+>
+Round: 101
+Lecturer Says: [92mStudy for General Education 1![0m
+>
+Round: 102
+Lecturer Says: [92mStudy for Wireless LAN Technology![0m
+>
+Round: 103
+Lecturer Says: [91mStudy for Mobile Applications![0m
+>
+Round: 104
+Lecturer Says: [92mStudy for Applied Cryptography![0m
+>
+Round: 105
+Lecturer Says: [92mStudy for Securing Microsoft Windows![0m
+>
+Round: 106
+Lecturer Says: [92mStudy for Enterprise Business Processes![0m
+>
+Round: 107
+Lecturer Says: [92mStudy for Communicating for Project (Report) Effectiveness![0m
+>
+Round: 108
+Lecturer Says: [91mStudy for Applied Cryptography![0m
+>
+Round: 109
+Lecturer Says: [91mStudy for General Education 1![0m
+>
+Round: 110
+Lecturer Says: [92mStudy for General Education 2![0m
+>
+Round: 111
+Lecturer Says: [91mStudy for Enterprise Business Processes![0m
+>
+Round: 112
+Lecturer Says: [91mStudy for Social Innovation Project![0m
+>
+Round: 113
+Lecturer Says: [92mStudy for Computer Architecture and Operating Systems![0m
+>
+Round: 114
+Lecturer Says: [91mStudy for Securing Microsoft Windows![0m
+>
+Round: 115
+Lecturer Says: [91mStudy for Mathematics![0m
+>
+Round: 116
+Lecturer Says: [91mStudy for Computer Law and Investigation![0m
+>
+Round: 117
+Lecturer Says: [92mStudy for Network Fundamentals![0m
+>
+Round: 118
+Lecturer Says: [92mStudy for Education and Career Guidance 1![0m
+>
+Round: 119
+Lecturer Says: [92mStudy for Enterprise Application Development![0m
+>
+Round: 120
+Lecturer Says: [92mStudy for Applied Cryptography![0m
+>
+Round: 121
+Lecturer Says: [92mStudy for Internet of Things![0m
+>
+Round: 122
+Lecturer Says: [92mStudy for Applied Cryptography![0m
+>
+Round: 123
+Lecturer Says: [91mStudy for Internship Programme![0m
+>
+Round: 124
+Lecturer Says: [91mStudy for Business Analytics![0m
+>
+Round: 125
+Lecturer Says: [92mStudy for Security Policy and Incident Management![0m
+>
+Round: 126
+Lecturer Says: [92mStudy for InfoSec Project Development and Management![0m
+>
+Round: 127
+Lecturer Says: [91mStudy for Geospatial Visualization![0m
+>
+Round: 128
+Lecturer Says: [92mStudy for Digital Forensics and Investigation![0m
+>
+Round: 129
+Lecturer Says: [91mStudy for General Education 3![0m
+>
+Round: 130
+Lecturer Says: [92mStudy for Programming in Python and C![0m
+>
+Round: 131
+Lecturer Says: [92mStudy for Securing Microsoft Windows![0m
+>
+Round: 132
+Lecturer Says: [92mStudy for Mobile Applications![0m
+>
+Round: 133
+Lecturer Says: [92mStudy for General Education 3![0m
+>
+Round: 134
+Lecturer Says: [92mStudy for Applied Cryptography![0m
+>
+Round: 135
+Lecturer Says: [91mStudy for Enterprise Business Processes![0m
+>
+Round: 136
+Lecturer Says: [91mStudy for General Education 2![0m
+>
+Round: 137
+Lecturer Says: [91mStudy for Web Client Development![0m
+>
+Round: 138
+Lecturer Says: [91mStudy for Securing Linux![0m
+>
+Round: 139
+Lecturer Says: [92mStudy for Programming Fundamentals![0m
+>
+Round: 140
+Lecturer Says: [91mStudy for Securing Microsoft Windows![0m
+>
+Round: 141
+Lecturer Says: [92mStudy for Malware Reverse Engineering![0m
+>
+Round: 142
+Lecturer Says: [91mStudy for Mathematics![0m
+>
+Round: 143
+Lecturer Says: [91mStudy for Computer Law and Investigation![0m
+>
+Round: 144
+Lecturer Says: [92mStudy for Communicating for Project (Report) Effectiveness![0m
+>
+Round: 145
+Lecturer Says: [92mStudy for Programming in Python and C![0m
+>
+Round: 146
+Lecturer Says: [92mStudy for Internship Programme![0m
+>
+Round: 147
+Lecturer Says: [92mStudy for Programming in Python and C![0m
+>
+Round: 148
+Lecturer Says: [91mStudy for Applied Cryptography![0m
+>
+Round: 149
+Lecturer Says: [92mStudy for Applied Cryptography![0m
+>
+Round: 150
+Lecturer Says: [92mStudy for Computer Law and Investigation![0m
+>
+Round: 151
+Lecturer Says: [91mStudy for InfoSec Project Development and Management![0m
+>
+Round: 152
+Lecturer Says: [92mStudy for Mobile Applications![0m
+>
+Round: 153
+Lecturer Says: [91mStudy for Social Innovation Project![0m
+>
+Round: 154
+Lecturer Says: [92mStudy for General Education 3![0m
+>
+Round: 155
+Lecturer Says: [92mStudy for Education and Career Guidance 1![0m
+>
+Round: 156
+Lecturer Says: [92mStudy for Digital Forensics and Investigation![0m
+>
+Round: 157
+Lecturer Says: [92mStudy for Securing Microsoft Windows![0m
+>
+Round: 158
+Lecturer Says: [91mStudy for Programming Fundamentals![0m
+>
+Round: 159
+Lecturer Says: [91mStudy for Enterprise Business Processes![0m
+>
+Round: 160
+Lecturer Says: [92mStudy for Social Innovation Project![0m
+>
+Round: 161
+Lecturer Says: [92mStudy for Web Client Development![0m
+>
+Round: 162
+Lecturer Says: [91mStudy for Communicating for Professional Effectiveness![0m
+>
+Round: 163
+Lecturer Says: [92mStudy for Advanced Java Programming![0m
+>
+Round: 164
+Lecturer Says: [91mStudy for Computer Architecture and Operating Systems![0m
+>
+Round: 165
+Lecturer Says: [92mStudy for General Education 3![0m
+>
+Round: 166
+Lecturer Says: [92mStudy for Database Management Systems![0m
+>
+Round: 167
+Lecturer Says: [91mStudy for Mathematics![0m
+>
+Round: 168
+Lecturer Says: [92mStudy for Programming Fundamentals![0m
+>
+Round: 169
+Lecturer Says: [92mStudy for Communicating for Professional Effectiveness![0m
+>
+Round: 170
+Lecturer Says: [91mStudy for Education and Career Guidance 2![0m
+>
+Round: 171
+Lecturer Says: [91mStudy for Education and Career Guidance 1![0m
+>
+Round: 172
+Lecturer Says: [92mStudy for Education and Career Guidance 1![0m
+>
+Round: 173
+Lecturer Says: [92mStudy for Mobile Applications![0m
+>
+Round: 174
+Lecturer Says: [91mStudy for Malware Reverse Engineering![0m
+>
+Round: 175
+Lecturer Says: [91mStudy for Internet of Things![0m
+>
+Round: 176
+Lecturer Says: [92mStudy for Education and Career Guidance 1![0m
+>
+Round: 177
+Lecturer Says: [91mStudy for General Education 2![0m
+>
+Round: 178
+Lecturer Says: [92mStudy for Essential LINUX System Administration![0m
+>
+Round: 179
+Lecturer Says: [91mStudy for InfoSec Project Development and Management![0m
+>
+Round: 180
+Lecturer Says: [91mStudy for Geospatial Visualization![0m
+>
+Round: 181
+Lecturer Says: [92mStudy for Essential LINUX System Administration![0m
+>
+Round: 182
+Lecturer Says: [91mStudy for Advanced Java Programming![0m
+>
+Round: 183
+Lecturer Says: [91mStudy for Mathematics![0m
+>
+Round: 184
+Lecturer Says: [91mStudy for Social Innovation Project![0m
+>
+Round: 185
+Lecturer Says: [92mStudy for Education and Career Guidance 1![0m
+>
+Round: 186
+Lecturer Says: [92mStudy for Digital Forensics and Investigation![0m
+>
+Round: 187
+Lecturer Says: [91mStudy for Programming in Python and C![0m
+>
+Round: 188
+Lecturer Says: [92mStudy for Securing Linux![0m
+>
+Round: 189
+Lecturer Says: [91mStudy for Internet of Things![0m
+>
+Round: 190
+Lecturer Says: [91mStudy for Communicating for Professional Effectiveness![0m
+>
+Round: 191
+Lecturer Says: [92mStudy for Securing Microsoft Windows![0m
+>
+Round: 192
+Lecturer Says: [91mStudy for Applied Cryptography![0m
+>
+Round: 193
+Lecturer Says: [92mStudy for Programming in Python and C![0m
+>
+Round: 194
+Lecturer Says: [91mStudy for Communicating for Project (Report) Effectiveness![0m
+>
+Round: 195
+Lecturer Says: [92mStudy for Securing Linux![0m
+>
+Round: 196
+Lecturer Says: [92mStudy for Web Client Development![0m
+>
+Round: 197
+Lecturer Says: [91mStudy for InfoSec Project Development and Management![0m
+>
+Round: 198
+Lecturer Says: [92mStudy for Applied Cryptography![0m
+>
+Round: 199
+Lecturer Says: [92mStudy for Digital Forensics and Investigation![0m
+>
+Round: 200
+Lecturer Says: [92mStudy for Internship Programme![0m
+>
+Round: 201
+Lecturer Says: [91mStudy for General Education 2![0m
+>
+Round: 202
+Lecturer Says: [91mStudy for Wireless LAN Technology![0m
+>
+Round: 203
+Lecturer Says: [92mStudy for Advanced Java Programming![0m
+>
+Round: 204
+Lecturer Says: [91mStudy for Programming in Python and C![0m
+>
+Round: 205
+Lecturer Says: [91mStudy for Advanced Java Programming![0m
+>
+Round: 206
+Lecturer Says: [91mStudy for Applied Cryptography![0m
+>
+Round: 207
+Lecturer Says: [91mStudy for Internship Programme![0m
+>
+Round: 208
+Lecturer Says: [92mStudy for Computer Law and Investigation![0m
+>
+Round: 209
+Lecturer Says: [92mStudy for Mathematics![0m
+>
+Round: 210
+Lecturer Says: [92mStudy for Mobile Applications![0m
+>
+Round: 211
+Lecturer Says: [91mStudy for Wireless LAN Technology![0m
+>
+Round: 212
+Lecturer Says: [92mStudy for Enterprise Application Development![0m
+>
+Round: 213
+Lecturer Says: [92mStudy for Internship Programme![0m
+>
+Round: 214
+Lecturer Says: [91mStudy for Education and Career Guidance 1![0m
+>
+Round: 215
+Lecturer Says: [91mStudy for Web Client Development![0m
+>
+Round: 216
+Lecturer Says: [92mStudy for Education and Career Guidance 2![0m
+>
+Round: 217
+Lecturer Says: [92mStudy for InfoSec Project Development and Management![0m
+>
+Round: 218
+Lecturer Says: [91mStudy for Geospatial Visualization![0m
+>
+Round: 219
+Lecturer Says: [91mStudy for General Education 1![0m
+>
+Round: 220
+Lecturer Says: [92mStudy for General Education 2![0m
+>
+Round: 221
+Lecturer Says: [92mStudy for Ethical Hacking and Defences![0m
+>
+Round: 222
+Lecturer Says: [92mStudy for Mobile Applications![0m
+>
+Round: 223
+Lecturer Says: [91mStudy for Database Management Systems![0m
+>
+Round: 224
+Lecturer Says: [92mStudy for Securing Microsoft Windows![0m
+>
+Round: 225
+Lecturer Says: [91mStudy for General Education 3![0m
+>
+Round: 226
+Lecturer Says: [91mStudy for Securing Linux![0m
+>
+Round: 227
+Lecturer Says: [91mStudy for Internship Programme![0m
+>
+Round: 228
+Lecturer Says: [91mStudy for InfoSec Project Development and Management![0m
+>
+Round: 229
+Lecturer Says: [91mStudy for Mobile Applications![0m
+>
+Round: 230
+Lecturer Says: [91mStudy for Communicating for Professional Effectiveness![0m
+>
+Round: 231
+Lecturer Says: [91mStudy for Applied Cryptography![0m
+>
+Round: 232
+Lecturer Says: [92mStudy for Essential LINUX System Administration![0m
+>
+Round: 233
+Lecturer Says: [91mStudy for Advanced Java Programming![0m
+>
+Round: 234
+Lecturer Says: [92mStudy for Essential LINUX System Administration![0m
+>
+Round: 235
+Lecturer Says: [91mStudy for Malware Reverse Engineering![0m
+>
+Round: 236
+Lecturer Says: [92mStudy for Mathematics![0m
+>
+Round: 237
+Lecturer Says: [92mStudy for Communicating for Professional Effectiveness![0m
+>
+Round: 238
+Lecturer Says: [91mStudy for Education and Career Guidance 2![0m
+>
+Round: 239
+Lecturer Says: [92mStudy for General Education 2![0m
+>
+Round: 240
+Lecturer Says: [92mStudy for Malware Reverse Engineering![0m
+>
+Round: 241
+Lecturer Says: [91mStudy for Geospatial Visualization![0m
+>
+Round: 242
+Lecturer Says: [91mStudy for Education and Career Guidance 2![0m
+>
+Round: 243
+Lecturer Says: [91mStudy for Advanced Java Programming![0m
+>
+Round: 244
+Lecturer Says: [91mStudy for Education and Career Guidance 2![0m
+>
+Round: 245
+Lecturer Says: [92mStudy for Infocomm Security![0m
+>
+Round: 246
+Lecturer Says: [92mStudy for Education and Career Guidance 1![0m
+>
+Round: 247
+Lecturer Says: [91mStudy for Advanced Java Programming![0m
+>
+Round: 248
+Lecturer Says: [92mStudy for Digital Forensics and Investigation![0m
+>
+Round: 249
+Lecturer Says: [92mStudy for Database Management Systems![0m
+>
+Round: 250
+Lecturer Says: [91mStudy for General Education 2![0m
+>
+Round: 251
+Lecturer Says: [92mStudy for Enterprise Business Processes![0m
+>
+Round: 252
+Lecturer Says: [92mStudy for Security Policy and Incident Management![0m
+>
+Round: 253
+Lecturer Says: [91mStudy for Web Client Development![0m
+>
+Round: 254
+Lecturer Says: [92mStudy for Web Client Development![0m
+>
+Round: 255
+Lecturer Says: [92mStudy for Programming Fundamentals![0m
+>
+Round: 256
+Lecturer Says: [92mStudy for Wireless LAN Technology![0m
+>
+Round: 257
+Lecturer Says: [92mStudy for Database Management Systems![0m
+>
+Round: 258
+Lecturer Says: [91mStudy for Securing Microsoft Windows![0m
+>
+Round: 259
+Lecturer Says: [91mStudy for Internet of Things![0m
+>
+Round: 260
+Lecturer Says: [91mStudy for Programming in Python and C![0m
+>
+Round: 261
+Lecturer Says: [91mStudy for Social Innovation Project![0m
+>
+Round: 262
+Lecturer Says: [91mStudy for Enterprise Business Processes![0m
+>
+Round: 263
+Lecturer Says: [91mStudy for Network Fundamentals![0m
+>
+Round: 264
+Lecturer Says: [92mStudy for Malware Reverse Engineering![0m
+>
+Round: 265
+Lecturer Says: [92mStudy for Wireless LAN Technology![0m
+>
+Round: 266
+Lecturer Says: [92mStudy for Social Innovation Project![0m
+>
+Round: 267
+Lecturer Says: [92mStudy for Communicating for Professional Effectiveness![0m
+>
+Round: 268
+Lecturer Says: [91mStudy for Computer Law and Investigation![0m
+>
+Round: 269
+Lecturer Says: [92mStudy for Digital Forensics and Investigation![0m
+>
+Round: 270
+Lecturer Says: [91mStudy for Essential LINUX System Administration![0m
+>
+Round: 271
+Lecturer Says: [91mStudy for Network Fundamentals![0m
+>
+Round: 272
+Lecturer Says: [91mStudy for Wireless LAN Technology![0m
+>
+Round: 273
+Lecturer Says: [91mStudy for Social Innovation Project![0m
+>
+Round: 274
+Lecturer Says: [92mStudy for Network Fundamentals![0m
+>
+Round: 275
+Lecturer Says: [92mStudy for Ethical Hacking and Defences![0m
+>
+Round: 276
+Lecturer Says: [92mStudy for General Education 2![0m
+>
+Round: 277
+Lecturer Says: [91mStudy for Enterprise Business Processes![0m
+>
+Round: 278
+Lecturer Says: [91mStudy for Database Management Systems![0m
+>
+Round: 279
+Lecturer Says: [91mStudy for Communicating for Project (Report) Effectiveness![0m
+>
+Round: 280
+Lecturer Says: [91mStudy for Mobile Applications![0m
+>
+Round: 281
+Lecturer Says: [91mStudy for Computer Law and Investigation![0m
+>
+Round: 282
+Lecturer Says: [91mStudy for Securing Linux![0m
+>
+Round: 283
+Lecturer Says: [91mStudy for Programming in Python and C![0m
+>
+Round: 284
+Lecturer Says: [91mStudy for Education and Career Guidance 2![0m
+>
+Round: 285
+Lecturer Says: [92mStudy for Communicating for Project (Report) Effectiveness![0m
+>
+Round: 286
+Lecturer Says: [92mStudy for Enterprise Business Processes![0m
+>
+Round: 287
+Lecturer Says: [92mStudy for Applied Cryptography![0m
+>
+Round: 288
+Lecturer Says: [92mStudy for Digital Forensics and Investigation![0m
+>
+Round: 289
+Lecturer Says: [91mStudy for Advanced Java Programming![0m
+>
+Round: 290
+Lecturer Says: [92mStudy for General Education 3![0m
+>
+Round: 291
+Lecturer Says: [92mStudy for Business Analytics![0m
+>
+Round: 292
+Lecturer Says: [92mStudy for Advanced Java Programming![0m
+>
+Round: 293
+Lecturer Says: [91mStudy for Communicating for Project (Report) Effectiveness![0m
+>
+Round: 294
+Lecturer Says: [92mStudy for Social Innovation Project![0m
+>
+Round: 295
+Lecturer Says: [92mStudy for Digital Forensics and Investigation![0m
+>
+Round: 296
+Lecturer Says: [91mStudy for Advanced Java Programming![0m
+>
+Round: 297
+Lecturer Says: [91mStudy for Education and Career Guidance 2![0m
+>
+Round: 298
+Lecturer Says: [92mStudy for Securing Microsoft Windows![0m
+>
+Round: 299
+Lecturer Says: [91mStudy for Essential LINUX System Administration![0m
+>
+Round: 300
+Lecturer Says: [92mStudy for Securing Linux![0m
+>
+Round: 301
+Lecturer Says: [92mStudy for General Education 1![0m
+>
+Round: 302
+Lecturer Says: [92mStudy for Computer Architecture and Operating Systems![0m
+>
+Round: 303
+Lecturer Says: [92mStudy for General Education 1![0m
+>
+Round: 304
+Lecturer Says: [92mStudy for Database Management Systems![0m
+>
+Round: 305
+Lecturer Says: [91mStudy for Securing Linux![0m
+>
+Round: 306
+Lecturer Says: [92mStudy for Mathematics![0m
+>
+Round: 307
+Lecturer Says: [91mStudy for Business Analytics![0m
+>
+Round: 308
+Lecturer Says: [92mStudy for Digital Forensics and Investigation![0m
+>
+Round: 309
+Lecturer Says: [91mStudy for Computer Architecture and Operating Systems![0m
+>
+Round: 310
+Lecturer Says: [92mStudy for General Education 2![0m
+>
+Round: 311
+Lecturer Says: [92mStudy for Malware Reverse Engineering![0m
+>
+Round: 312
+Lecturer Says: [92mStudy for Mathematics![0m
+>
+Round: 313
+Lecturer Says: [92mStudy for Education and Career Guidance 1![0m
+>
+Round: 314
+Lecturer Says: [91mStudy for Essential LINUX System Administration![0m
+>
+Round: 315
+Lecturer Says: [92mStudy for Malware Reverse Engineering![0m
+>
+Round: 316
+Lecturer Says: [92mStudy for Securing Microsoft Windows![0m
+>
+Round: 317
+Lecturer Says: [91mStudy for Wireless LAN Technology![0m
+>
+Round: 318
+Lecturer Says: [91mStudy for Enterprise Business Processes![0m
+>
+Round: 319
+Lecturer Says: [91mStudy for Advanced Java Programming![0m
+>
+Round: 320
+Lecturer Says: [91mStudy for Programming Fundamentals![0m
+>
+Round: 321
+Lecturer Says: [91mStudy for Mobile Applications![0m
+>
+Round: 322
+Lecturer Says: [92mStudy for Security Policy and Incident Management![0m
+>
+Round: 323
+Lecturer Says: [91mStudy for Education and Career Guidance 1![0m
+>
+Round: 324
+Lecturer Says: [91mStudy for Network Fundamentals![0m
+>
+Round: 325
+Lecturer Says: [92mStudy for Essential LINUX System Administration![0m
+>
+Round: 326
+Lecturer Says: [92mStudy for Programming Fundamentals![0m
+>
+Round: 327
+Lecturer Says: [92mStudy for Security Policy and Incident Management![0m
+>
+Round: 328
+Lecturer Says: [91mStudy for Social Innovation Project![0m
+>
+Round: 329
+Lecturer Says: [92mStudy for Advanced Java Programming![0m
+>
+Round: 330
+Lecturer Says: [91mStudy for Essential LINUX System Administration![0m
+>
+Round: 331
+Lecturer Says: [92mStudy for Infocomm Security![0m
+>
+Round: 332
+Lecturer Says: [91mStudy for Internet of Things![0m
+>
+Round: 333
+Lecturer Says: [91mStudy for Digital Forensics and Investigation![0m
+>
+Round: 334
+Lecturer Says: [92mStudy for General Education 1![0m
+>
+Round: 335
+Lecturer Says: [91mStudy for Social Innovation Project![0m
+>
+Round: 336
+Lecturer Says: [91mStudy for Education and Career Guidance 2![0m
+>
+Round: 337
+Lecturer Says: [92mStudy for General Education 3![0m
+>
+Round: 338
+Lecturer Says: [92mStudy for Ethical Hacking and Defences![0m
+>
+Round: 339
+Lecturer Says: [91mStudy for Applied Cryptography![0m
+>
+Round: 340
+Lecturer Says: [92mStudy for Securing Microsoft Windows![0m
+>
+Round: 341
+Lecturer Says: [91mStudy for Securing Linux![0m
+>
+Round: 342
+Lecturer Says: [91mStudy for Computer Law and Investigation![0m
+>
+Round: 343
+Lecturer Says: [92mStudy for Applied Cryptography![0m
+>
+Round: 344
+Lecturer Says: [92mStudy for General Education 2![0m
+>
+Round: 345
+Lecturer Says: [91mStudy for Essential LINUX System Administration![0m
+>
+Round: 346
+Lecturer Says: [91mStudy for Enterprise Business Processes![0m
+>
+Round: 347
+Lecturer Says: [91mStudy for General Education 2![0m
+>
+Round: 348
+Lecturer Says: [92mStudy for Security Policy and Incident Management![0m
+>
+Round: 349
+Lecturer Says: [92mStudy for Mathematics![0m
+>
+Round: 350
+Lecturer Says: [91mStudy for Internet of Things![0m
+>
+Round: 351
+Lecturer Says: [91mStudy for Computer Law and Investigation![0m
+>
+Round: 352
+Lecturer Says: [92mStudy for Essential LINUX System Administration![0m
+>
+Round: 353
+Lecturer Says: [92mStudy for Infocomm Security![0m
+>
+Round: 354
+Lecturer Says: [92mStudy for Advanced Java Programming![0m
+>
+Round: 355
+Lecturer Says: [91mStudy for Business Analytics![0m
+>
+Round: 356
+Lecturer Says: [92mStudy for Database Management Systems![0m
+>
+Round: 357
+Lecturer Says: [91mStudy for Enterprise Application Development![0m
+>
+Round: 358
+Lecturer Says: [91mStudy for Infocomm Security![0m
+>
+Round: 359
+Lecturer Says: [92mStudy for Database Management Systems![0m
+>
+Round: 360
+Lecturer Says: [92mStudy for Programming in Python and C![0m
+>
+Round: 361
+Lecturer Says: [91mStudy for Infocomm Security![0m
+>
+Round: 362
+Lecturer Says: [92mStudy for Advanced Java Programming![0m
+>
+Round: 363
+Lecturer Says: [92mStudy for Social Innovation Project![0m
+>
+Round: 364
+Lecturer Says: [92mStudy for Applied Cryptography![0m
+>
+Round: 365
+Lecturer Says: [91mStudy for General Education 3![0m
+>
+Round: 366
+Lecturer Says: [91mStudy for General Education 1![0m
+>
+Round: 367
+Lecturer Says: [91mStudy for Programming Fundamentals![0m
+>
+Round: 368
+Lecturer Says: [92mStudy for Infocomm Security![0m
+>
+Round: 369
+Lecturer Says: [91mStudy for General Education 2![0m
+>
+Round: 370
+Lecturer Says: [91mStudy for Malware Reverse Engineering![0m
+>
+Round: 371
+Lecturer Says: [92mStudy for Enterprise Application Development![0m
+>
+Round: 372
+Lecturer Says: [91mStudy for Computer Law and Investigation![0m
+>
+Round: 373
+Lecturer Says: [92mStudy for Enterprise Business Processes![0m
+>
+Round: 374
+Lecturer Says: [92mStudy for General Education 2![0m
+>
+Round: 375
+Lecturer Says: [92mStudy for Digital Forensics and Investigation![0m
+>
+Round: 376
+Lecturer Says: [92mStudy for Network Fundamentals![0m
+>
+Round: 377
+Lecturer Says: [92mStudy for Mathematics![0m
+>
+Round: 378
+Lecturer Says: [92mStudy for Programming in Python and C![0m
+>
+Round: 379
+Lecturer Says: [91mStudy for Essential LINUX System Administration![0m
+>
+Round: 380
+Lecturer Says: [91mStudy for Communicating for Project (Report) Effectiveness![0m
+>
+Round: 381
+Lecturer Says: [92mStudy for Enterprise Business Processes![0m
+>
+Round: 382
+Lecturer Says: [91mStudy for Communicating for Project (Report) Effectiveness![0m
+>
+Round: 383
+Lecturer Says: [91mStudy for Securing Microsoft Windows![0m
+>
+Round: 384
+Lecturer Says: [91mStudy for Enterprise Application Development![0m
+>
+Round: 385
+Lecturer Says: [91mStudy for Mathematics![0m
+>
+Round: 386
+Lecturer Says: [91mStudy for Database Management Systems![0m
+>
+Round: 387
+Lecturer Says: [92mStudy for Education and Career Guidance 1![0m
+>
+Round: 388
+Lecturer Says: [92mStudy for Communicating for Professional Effectiveness![0m
+>
+Round: 389
+Lecturer Says: [91mStudy for InfoSec Project Development and Management![0m
+>
+Round: 390
+Lecturer Says: [91mStudy for Enterprise Business Processes![0m
+>
+Round: 391
+Lecturer Says: [91mStudy for Education and Career Guidance 2![0m
+>
+Round: 392
+Lecturer Says: [92mStudy for Network Fundamentals![0m
+>
+Round: 393
+Lecturer Says: [92mStudy for Digital Forensics and Investigation![0m
+>
+Round: 394
+Lecturer Says: [92mStudy for Education and Career Guidance 1![0m
+>
+Round: 395
+Lecturer Says: [91mStudy for General Education 1![0m
+>
+Round: 396
+Lecturer Says: [92mStudy for Infocomm Security![0m
+>
+Round: 397
+Lecturer Says: [92mStudy for Programming Fundamentals![0m
+>
+Round: 398
+Lecturer Says: [92mStudy for Ethical Hacking and Defences![0m
+>
+Round: 399
+Lecturer Says: [91mStudy for Enterprise Application Development![0m
+>
+Round: 400
+Lecturer Says: [91mStudy for Programming Fundamentals![0m
+>
+Round: 401
+Lecturer Says: [91mStudy for General Education 2![0m
+>
+Round: 402
+Lecturer Says: [91mStudy for Business Analytics![0m
+>
+Round: 403
+Lecturer Says: [91mStudy for Malware Reverse Engineering![0m
+>
+Round: 404
+Lecturer Says: [92mStudy for Malware Reverse Engineering![0m
+>
+Round: 405
+Lecturer Says: [92mStudy for General Education 2![0m
+>
+Round: 406
+Lecturer Says: [92mStudy for Securing Linux![0m
+>
+Round: 407
+Lecturer Says: [92mStudy for Education and Career Guidance 2![0m
+>
+Round: 408
+Lecturer Says: [92mStudy for Programming in Python and C![0m
+>
+Round: 409
+Lecturer Says: [92mStudy for Mathematics![0m
+>
+Round: 410
+Lecturer Says: [91mStudy for Database Management Systems![0m
+>
+Round: 411
+Lecturer Says: [91mStudy for Computer Law and Investigation![0m
+>
+Round: 412
+Lecturer Says: [92mStudy for Securing Linux![0m
+>
+Round: 413
+Lecturer Says: [92mStudy for Wireless LAN Technology![0m
+>
+Round: 414
+Lecturer Says: [91mStudy for Mobile Applications![0m
+>
+Round: 415
+Lecturer Says: [91mStudy for Mobile Applications![0m
+>
+Round: 416
+Lecturer Says: [92mStudy for Geospatial Visualization![0m
+>
+Round: 417
+Lecturer Says: [92mStudy for Geospatial Visualization![0m
+>
+Round: 418
+Lecturer Says: [92mStudy for General Education 3![0m
+>
+Round: 419
+Lecturer Says: [91mStudy for Communicating for Project (Report) Effectiveness![0m
+>
+Round: 420
+Lecturer Says: [91mStudy for Applied Cryptography![0m
+>
+Round: 421
+Lecturer Says: [92mStudy for Programming Fundamentals![0m
+>
+Round: 422
+Lecturer Says: [92mStudy for Digital Forensics and Investigation![0m
+>
+Round: 423
+Lecturer Says: [92mStudy for Wireless LAN Technology![0m
+>
+Round: 424
+Lecturer Says: [91mStudy for Internet of Things![0m
+>
+Round: 425
+Lecturer Says: [92mStudy for Security Policy and Incident Management![0m
+>
+Round: 426
+Lecturer Says: [92mStudy for Programming Fundamentals![0m
+>
+Round: 427
+Lecturer Says: [91mStudy for Securing Linux![0m
+>
+Round: 428
+Lecturer Says: [92mStudy for Digital Forensics and Investigation![0m
+>
+Round: 429
+Lecturer Says: [91mStudy for Security Policy and Incident Management![0m
+>
+Round: 430
+Lecturer Says: [91mStudy for Security Policy and Incident Management![0m
+>
+Round: 431
+Lecturer Says: [92mStudy for Internship Programme![0m
+>
+Round: 432
+Lecturer Says: [92mStudy for Securing Linux![0m
+>
+Round: 433
+Lecturer Says: [92mStudy for Infocomm Security![0m
+>
+Round: 434
+Lecturer Says: [91mStudy for General Education 1![0m
+>
+Round: 435
+Lecturer Says: [92mStudy for Computer Architecture and Operating Systems![0m
+>
+Round: 436
+Lecturer Says: [91mStudy for Communicating for Professional Effectiveness![0m
+>
+Round: 437
+Lecturer Says: [92mStudy for Malware Reverse Engineering![0m
+>
+Round: 438
+Lecturer Says: [91mStudy for Geospatial Visualization![0m
+>
+Round: 439
+Lecturer Says: [91mStudy for Mobile Applications![0m
+>
+Round: 440
+Lecturer Says: [91mStudy for Ethical Hacking and Defences![0m
+>
+Round: 441
+Lecturer Says: [91mStudy for Mobile Applications![0m
+>
+Round: 442
+Lecturer Says: [92mStudy for Geospatial Visualization![0m
+>
+Round: 443
+Lecturer Says: [92mStudy for Social Innovation Project![0m
+>
+Round: 444
+Lecturer Says: [92mStudy for Network Fundamentals![0m
+>
+Round: 445
+Lecturer Says: [91mStudy for Programming in Python and C![0m
+>
+Round: 446
+Lecturer Says: [91mStudy for Security Policy and Incident Management![0m
+>
+Round: 447
+Lecturer Says: [92mStudy for Internet of Things![0m
+>
+Round: 448
+Lecturer Says: [91mStudy for Web Client Development![0m
+>
+Round: 449
+Lecturer Says: [91mStudy for General Education 1![0m
+>
+Round: 450
+Lecturer Says: [91mStudy for Programming in Python and C![0m
+>
+Round: 451
+Lecturer Says: [92mStudy for Computer Architecture and Operating Systems![0m
+>
+Round: 452
+Lecturer Says: [92mStudy for Social Innovation Project![0m
+>
+Round: 453
+Lecturer Says: [91mStudy for Securing Linux![0m
+>
+Round: 454
+Lecturer Says: [91mStudy for Wireless LAN Technology![0m
+>
+Round: 455
+Lecturer Says: [91mStudy for Computer Architecture and Operating Systems![0m
+>
+Round: 456
+Lecturer Says: [91mStudy for Infocomm Security![0m
+>
+Round: 457
+Lecturer Says: [91mStudy for Securing Linux![0m
+>
+Round: 458
+Lecturer Says: [92mStudy for Communicating for Project (Report) Effectiveness![0m
+>
+Round: 459
+Lecturer Says: [92mStudy for Digital Forensics and Investigation![0m
+>
+Round: 460
+Lecturer Says: [91mStudy for Internship Programme![0m
+>
+Round: 461
+Lecturer Says: [92mStudy for Mobile Applications![0m
+>
+Round: 462
+Lecturer Says: [91mStudy for Enterprise Application Development![0m
+>
+Round: 463
+Lecturer Says: [92mStudy for Internet of Things![0m
+>
+Round: 464
+Lecturer Says: [91mStudy for Mathematics![0m
+>
+Round: 465
+Lecturer Says: [92mStudy for General Education 2![0m
+>
+Round: 466
+Lecturer Says: [92mStudy for General Education 2![0m
+>
+Round: 467
+Lecturer Says: [91mStudy for Digital Forensics and Investigation![0m
+>
+Round: 468
+Lecturer Says: [91mStudy for Database Management Systems![0m
+>
+Round: 469
+Lecturer Says: [91mStudy for Mobile Applications![0m
+>
+Round: 470
+Lecturer Says: [92mStudy for Mathematics![0m
+>
+Round: 471
+Lecturer Says: [91mStudy for Network Fundamentals![0m
+>
+Round: 472
+Lecturer Says: [91mStudy for Education and Career Guidance 1![0m
+>
+Round: 473
+Lecturer Says: [91mStudy for Internet of Things![0m
+>
+Round: 474
+Lecturer Says: [92mStudy for Internet of Things![0m
+>
+Round: 475
+Lecturer Says: [92mStudy for Infocomm Security![0m
+>
+Round: 476
+Lecturer Says: [92mStudy for Communicating for Professional Effectiveness![0m
+>
+Round: 477
+Lecturer Says: [91mStudy for Malware Reverse Engineering![0m
+>
+Round: 478
+Lecturer Says: [92mStudy for General Education 2![0m
+>
+Round: 479
+Lecturer Says: [92mStudy for General Education 2![0m
+>
+Round: 480
+Lecturer Says: [91mStudy for Ethical Hacking and Defences![0m
+>
+Round: 481
+Lecturer Says: [91mStudy for Social Innovation Project![0m
+>
+Round: 482
+Lecturer Says: [92mStudy for Essential LINUX System Administration![0m
+>
+Round: 483
+Lecturer Says: [91mStudy for Communicating for Professional Effectiveness![0m
+>
+Round: 484
+Lecturer Says: [91mStudy for General Education 1![0m
+>
+Round: 485
+Lecturer Says: [92mStudy for Security Policy and Incident Management![0m
+>
+Round: 486
+Lecturer Says: [92mStudy for Geospatial Visualization![0m
+>
+Round: 487
+Lecturer Says: [92mStudy for Database Management Systems![0m
+>
+Round: 488
+Lecturer Says: [91mStudy for Security Policy and Incident Management![0m
+>
+Round: 489
+Lecturer Says: [91mStudy for Ethical Hacking and Defences![0m
+>
+Round: 490
+Lecturer Says: [91mStudy for Internet of Things![0m
+>
+Round: 491
+Lecturer Says: [92mStudy for Advanced Java Programming![0m
+>
+Round: 492
+Lecturer Says: [91mStudy for Programming in Python and C![0m
+>
+Round: 493
+Lecturer Says: [91mStudy for Communicating for Professional Effectiveness![0m
+>
+Round: 494
+Lecturer Says: [92mStudy for Business Analytics![0m
+>
+Round: 495
+Lecturer Says: [91mStudy for Programming Fundamentals![0m
+>
+Round: 496
+Lecturer Says: [91mStudy for Business Analytics![0m
+>
+Round: 497
+Lecturer Says: [92mStudy for Education and Career Guidance 2![0m
+>
+Round: 498
+Lecturer Says: [92mStudy for Internet of Things![0m
+>
+Round: 499
+Lecturer Says: [92mStudy for Computer Law and Investigation![0m
+>
+Round: 500
+Lecturer Says: [91mStudy for Infocomm Security![0m
+>
+GCTF{p4y_4773n710n_wh3n_l3c7ur3r_15_61v1n6_3x4m_h1n75}

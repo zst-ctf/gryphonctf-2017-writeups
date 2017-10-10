@@ -1,0 +1,80 @@
+>> Level 1, call bonus, info frame
+Stack level 0, frame at 0xffffd414:
+ eip = 0xf7fd8b69 in __kernel_vsyscall; saved eip = 0xf7e7c39f
+ called by frame at 0xffffd420
+ Arglist at 0xffffd40c, args: 
+ Locals at 0xffffd40c, Previous frame's sp is 0xffffd414
+ Saved registers:
+  ecx at 0xffffd40c, edx at 0xffffd408, ebp at 0xffffd404, eip at 0xffffd410
+
+>> Level 2, call bonus, info frame
+Stack level 0, frame at 0xffffd404:
+ eip = 0xf7fd8b69 in __kernel_vsyscall; saved eip = 0xf7e7c39f
+ called by frame at 0xffffd410
+ Arglist at 0xffffd3fc, args: 
+ Locals at 0xffffd3fc, Previous frame's sp is 0xffffd404
+ Saved registers:
+  ecx at 0xffffd3fc, edx at 0xffffd3f8, ebp at 0xffffd3f4, eip at 0xffffd400
+
+
+>> Level 3, call bonus, info frame
+Stack level 0, frame at 0xffffd3c4:
+ eip = 0xf7fd8b69 in __kernel_vsyscall; saved eip = 0xf7e7c39f
+ called by frame at 0xffffd3d0
+ Arglist at 0xffffd3bc, args: 
+ Locals at 0xffffd3bc, Previous frame's sp is 0xffffd3c4
+ Saved registers:
+  ecx at 0xffffd3bc, edx at 0xffffd3b8, ebp at 0xffffd3b4, eip at 0xffffd3c0
+
+>>(gdb) break *0x80492eb
+>> breakpoint Level 4, call bonus, info frame
+
+Stack level 0, frame at 0xffffd554:
+ eip = 0xf7fd8b69 in __kernel_vsyscall; saved eip = 0xf7e7c39f
+ called by frame at 0xffffd560
+ Arglist at 0xffffd54c, args: 
+ Locals at 0xffffd54c, Previous frame's sp is 0xffffd554
+ Saved registers:
+  ecx at 0xffffd54c, edx at 0xffffd548, ebp at 0xffffd544, eip at 0xffffd550
+
+
+0xffffd404, 0xffffd3f4, 0xffffd3b4, 0xffffd544
+
+=======================================
+
+0xffffd770
+>> level 1 frame
+Stack level 0, frame at 0xffffd5f4:
+ eip = 0xf7fd8b69 in __kernel_vsyscall; saved eip = 0xf7e7c39f
+ called by frame at 0xffffd600
+ Arglist at 0xffffd5ec, args: 
+ Locals at 0xffffd5ec, Previous frame's sp is 0xffffd5f4
+ Saved registers:
+  ecx at 0xffffd5ec, edx at 0xffffd5e8, ebp at 0xffffd5e4, eip at 0xffffd5f0
+
+>> level 2 frame
+Stack level 0, frame at 0xffffd5e4:
+ eip = 0xf7fd8b69 in __kernel_vsyscall; saved eip = 0xf7e7c39f
+ called by frame at 0xffffd5f0
+ Arglist at 0xffffd5dc, args: 
+ Locals at 0xffffd5dc, Previous frame's sp is 0xffffd5e4
+ Saved registers:
+  ecx at 0xffffd5dc, edx at 0xffffd5d8, ebp at 0xffffd5d4, eip at 0xffffd5e0
+
+>> level 3 frame
+Stack level 0, frame at 0xffffd5a4:
+ eip = 0xf7fd8b69 in __kernel_vsyscall; saved eip = 0xf7e7c39f
+ called by frame at 0xffffd5b0
+ Arglist at 0xffffd59c, args: 
+ Locals at 0xffffd59c, Previous frame's sp is 0xffffd5a4
+ Saved registers:
+  ecx at 0xffffd59c, edx at 0xffffd598, ebp at 0xffffd594, eip at 0xffffd5a0
+
+>> level 4 frame
+Stack level 0, frame at 0xffffd790:
+ eip = 0x80492eb in level_four; saved eip = 0x804972e
+ called by frame at 0xffffd7c0
+ Arglist at 0xffffd788, args: 
+ Locals at 0xffffd788, Previous frame's sp is 0xffffd790
+ Saved registers:
+  ebp at 0xffffd788, eip at 0xffffd78c

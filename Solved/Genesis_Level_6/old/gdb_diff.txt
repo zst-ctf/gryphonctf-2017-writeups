@@ -1,0 +1,152 @@
+oot@zst_ctf:/FILES# gdb gen 
+GNU gdb (Ubuntu 7.11.1-0ubuntu1~16.5) 7.11.1
+Copyright (C) 2016 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.  Type "show copying"
+and "show warranty" for details.
+This GDB was configured as "x86_64-linux-gnu".
+Type "show configuration" for configuration details.
+For bug reporting instructions, please see:
+<http://www.gnu.org/software/gdb/bugs/>.
+Find the GDB manual and other documentation resources online at:
+<http://www.gnu.org/software/gdb/documentation/>.
+For help, type "help".
+Type "apropos word" to search for commands related to "word"...
+Reading symbols from gen...(no debugging symbols found)...done.
+(gdb) break *0x80496bd
+Breakpoint 1 at 0x80496bd
+(gdb) run
+Starting program: /FILES/gen 
+[Thread debugging using libthread_db enabled]
+Using host libthread_db library "/lib/x86_64-linux-gnu/libthread_db.so.1".
+[New Thread 0xf7da6b40 (LWP 15268)]
+
+Thread 1 "gen" hit Breakpoint 1, 0x080496bd in main ()
+(gdb) call level_two()
+================================================================
+                            LEVEL 02                              
+================================================================
+Enter secret code: ^C
+Thread 1 "gen" received signal SIGINT, Interrupt.
+0xf7fd8b69 in __kernel_vsyscall ()
+The program being debugged was signaled while in a function called from GDB.
+GDB remains in the frame where the signal was received.
+To change this behavior use "set unwindonsignal on".
+Evaluation of the expression containing the function
+(level_two) will be abandoned.
+When the function is done executing, GDB will silently stop.
+(gdb) info frame
+Stack level 0, frame at 0xffffd5c4:
+ eip = 0xf7fd8b69 in __kernel_vsyscall; saved eip = 0xf7e7c39f
+ called by frame at 0xffffd5d0
+ Arglist at 0xffffd5bc, args: 
+ Locals at 0xffffd5bc, Previous frame's sp is 0xffffd5c4
+ Saved registers:
+  ecx at 0xffffd5bc, edx at 0xffffd5b8, ebp at 0xffffd5b4, eip at 0xffffd5c0
+(gdb) Quit
+(gdb) Quit
+(gdb) quit
+A debugging session is active.
+
+    Inferior 1 [process 15264] will be killed.
+
+Quit anyway? (y or n) y
+root@zst_ctf:/FILES# gdb gen 
+GNU gdb (Ubuntu 7.11.1-0ubuntu1~16.5) 7.11.1
+Copyright (C) 2016 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.  Type "show copying"
+and "show warranty" for details.
+This GDB was configured as "x86_64-linux-gnu".
+Type "show configuration" for configuration details.
+For bug reporting instructions, please see:
+<http://www.gnu.org/software/gdb/bugs/>.
+Find the GDB manual and other documentation resources online at:
+<http://www.gnu.org/software/gdb/documentation/>.
+For help, type "help".
+Type "apropos word" to search for commands related to "word"...
+Reading symbols from gen...(no debugging symbols found)...done.
+(gdb) break *0x80496bd
+Breakpoint 1 at 0x80496bd
+(gdb) call level_three()
+You can't do that without a process to debug.
+(gdb) run
+Starting program: /FILES/gen 
+[Thread debugging using libthread_db enabled]
+Using host libthread_db library "/lib/x86_64-linux-gnu/libthread_db.so.1".
+[New Thread 0xf7da6b40 (LWP 15275)]
+
+Thread 1 "gen" hit Breakpoint 1, 0x080496bd in main ()
+(gdb) call level_three()
+================================================================
+                            LEVEL 03                              
+================================================================
+Enter secret code: ^C
+Thread 1 "gen" received signal SIGINT, Interrupt.
+0xf7fd8b69 in __kernel_vsyscall ()
+The program being debugged was signaled while in a function called from GDB.
+GDB remains in the frame where the signal was received.
+To change this behavior use "set unwindonsignal on".
+Evaluation of the expression containing the function
+(level_three) will be abandoned.
+When the function is done executing, GDB will silently stop.
+(gdb) info frame
+Stack level 0, frame at 0xffffd584:
+ eip = 0xf7fd8b69 in __kernel_vsyscall; saved eip = 0xf7e7c39f
+ called by frame at 0xffffd590
+ Arglist at 0xffffd57c, args: 
+ Locals at 0xffffd57c, Previous frame's sp is 0xffffd584
+ Saved registers:
+  ecx at 0xffffd57c, edx at 0xffffd578, ebp at 0xffffd574, eip at 0xffffd580
+(gdb) Quit
+(gdb) quit
+A debugging session is active.
+
+    Inferior 1 [process 15271] will be killed.
+
+Quit anyway? (y or n) y
+root@zst_ctf:/FILES# gdb gen 
+GNU gdb (Ubuntu 7.11.1-0ubuntu1~16.5) 7.11.1
+Copyright (C) 2016 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.  Type "show copying"
+and "show warranty" for details.
+This GDB was configured as "x86_64-linux-gnu".
+Type "show configuration" for configuration details.
+For bug reporting instructions, please see:
+<http://www.gnu.org/software/gdb/bugs/>.
+Find the GDB manual and other documentation resources online at:
+<http://www.gnu.org/software/gdb/documentation/>.
+For help, type "help".
+Type "apropos word" to search for commands related to "word"...
+Reading symbols from gen...(no debugging symbols found)...done.
+(gdb) break *0x80496bd
+Breakpoint 1 at 0x80496bd
+(gdb) break *0x80492eb
+Breakpoint 2 at 0x80492eb
+(gdb) run
+Starting program: /FILES/gen 
+[Thread debugging using libthread_db enabled]
+Using host libthread_db library "/lib/x86_64-linux-gnu/libthread_db.so.1".
+[New Thread 0xf7da6b40 (LWP 15282)]
+
+Thread 1 "gen" hit Breakpoint 1, 0x080496bd in main ()
+(gdb) call level_four()
+
+Thread 1 "gen" hit Breakpoint 2, 0x080492eb in level_four ()
+The program being debugged stopped while in a function called from GDB.
+Evaluation of the expression containing the function
+(level_four) will be abandoned.
+When the function is done executing, GDB will silently stop.
+(gdb) info frame
+Stack level 0, frame at 0xffffd770:
+ eip = 0x80492eb in level_four; saved eip = 0xffffd77f
+ called by frame at 0xffffd774
+ Arglist at 0xffffd768, args: 
+ Locals at 0xffffd768, Previous frame's sp is 0xffffd770
+ Saved registers:
+  ebp at 0xffffd768, eip at 0xffffd76c
+(gdb) 

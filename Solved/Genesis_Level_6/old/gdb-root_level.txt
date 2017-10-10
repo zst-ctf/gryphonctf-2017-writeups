@@ -1,0 +1,90 @@
+gdb gen 
+GNU gdb (Ubuntu 7.11.1-0ubuntu1~16.5) 7.11.1
+Copyright (C) 2016 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.  Type "show copying"
+and "show warranty" for details.
+This GDB was configured as "x86_64-linux-gnu".
+Type "show configuration" for configuration details.
+For bug reporting instructions, please see:
+<http://www.gnu.org/software/gdb/bugs/>.
+Find the GDB manual and other documentation resources online at:
+<http://www.gnu.org/software/gdb/documentation/>.
+For help, type "help".
+Type "apropos word" to search for commands related to "word"...
+Reading symbols from gen...(no debugging symbols found)...done.
+(gdb) run
+Starting program: /FILES/gen 
+[Thread debugging using libthread_db enabled]
+Using host libthread_db library "/lib/x86_64-linux-gnu/libthread_db.so.1".
+[New Thread 0xf7da6b40 (LWP 15261)]
+================================================================
+                            LEVEL 01                              
+================================================================
+Enter secret code: ^C
+Thread 1 "gen" received signal SIGINT, Interrupt.
+0xf7fd8b69 in __kernel_vsyscall ()
+(gdb) 7h15 15 4 h1dd3n 57r1n6
+Undefined command: "7h15".  Try "help".
+(gdb) info frame
+Stack level 0, frame at 0xffffd5f4:
+ eip = 0xf7fd8b69 in __kernel_vsyscall; saved eip = 0xf7e7c39f
+ called by frame at 0xffffd600
+ Arglist at 0xffffd5ec, args: 
+ Locals at 0xffffd5ec, Previous frame's sp is 0xffffd5f4
+ Saved registers:
+  ecx at 0xffffd5ec, edx at 0xffffd5e8, ebp at 0xffffd5e4, eip at 0xffffd5f0
+(gdb) c
+Continuing.
+7h15 15 4 h1dd3n 57r1n6
+GCTF{FLAG_ONE}
+================================================================
+                            LEVEL 02                              
+================================================================
+Enter secret code: ^C
+Thread 1 "gen" received signal SIGINT, Interrupt.
+0xf7fd8b69 in __kernel_vsyscall ()
+(gdb) info frame
+Stack level 0, frame at 0xffffd5e4:
+ eip = 0xf7fd8b69 in __kernel_vsyscall; saved eip = 0xf7e7c39f
+ called by frame at 0xffffd5f0
+ Arglist at 0xffffd5dc, args: 
+ Locals at 0xffffd5dc, Previous frame's sp is 0xffffd5e4
+ Saved registers:
+  ecx at 0xffffd5dc, edx at 0xffffd5d8, ebp at 0xffffd5d4, eip at 0xffffd5e0
+(gdb) c
+Continuing.
+[Thread 0xf7da6b40 (LWP 15261) exited]
+7h1nk1n6 w17h 1n7363r5!1
+GCTF{FLAG_TWO}
+================================================================
+                            LEVEL 03                              
+================================================================
+Enter secret code: ^C
+Thread 1 "gen" received signal SIGINT, Interrupt.
+0xf7fd8b69 in __kernel_vsyscall ()
+(gdb) info frame
+Stack level 0, frame at 0xffffd5a4:
+ eip = 0xf7fd8b69 in __kernel_vsyscall; saved eip = 0xf7e7c39f
+ called by frame at 0xffffd5b0
+ Arglist at 0xffffd59c, args: 
+ Locals at 0xffffd59c, Previous frame's sp is 0xffffd5a4
+ Saved registers:
+  ecx at 0xffffd59c, edx at 0xffffd598, ebp at 0xffffd594, eip at 0xffffd5a0
+(gdb) break *0x80492eb
+Breakpoint 1 at 0x80492eb
+(gdb) c
+Continuing.
+r3v3r53 3n61n33r5
+GCTF{FLAG_THREE}
+
+Thread 1 "gen" hit Breakpoint 1, 0x080492eb in level_four ()
+(gdb) info frame
+Stack level 0, frame at 0xffffd790:
+ eip = 0x80492eb in level_four; saved eip = 0x804972e
+ called by frame at 0xffffd7c0
+ Arglist at 0xffffd788, args: 
+ Locals at 0xffffd788, Previous frame's sp is 0xffffd790
+ Saved registers:
+  ebp at 0xffffd788, eip at 0xffffd78c

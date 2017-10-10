@@ -1,0 +1,83 @@
+
+
+        ; ================ B E G I N N I N G   O F   P R O C E D U R E ================
+
+        ; Variables:
+        ;    var_C: -12
+        ;    var_E: -14
+        ;    var_12: -18
+        ;    var_16: -22
+        ;    var_1A: -26
+        ;    var_1E: -30
+        ;    var_22: -34
+        ;    var_26: -38
+        ;    var_2A: -42
+        ;    var_2E: -46
+        ;    var_4E: -78
+
+
+             bonus:
+080495e3         pushl      %ebp                                                ; CODE XREF=sub_80496b5+166
+080495e4         movl       %esp, %ebp
+080495e6         subl       $0x58, %esp
+080495e9         movl       %gs:0x14, %eax
+080495ef         movl       %eax, var_C(%ebp)
+080495f2         xorl       %eax, %eax
+080495f4         movl       $0x20643164, var_2E(%ebp)
+080495fb         movl       $0x20753079, var_2A(%ebp)
+08049602         movl       $0x6e316837, var_26(%ebp)
+08049609         movl       $0x6837206b, var_22(%ebp)
+08049610         movl       $0x77203531, var_1E(%ebp)
+08049617         movl       $0x646c7530, var_1A(%ebp)
+0804961e         movl       $0x20336220, var_16(%ebp)
+08049625         movl       $0x79353433, var_12(%ebp)
+0804962c         movw       $0x3f, var_E(%ebp)
+08049632         movl       banner, %eax                                        ; banner
+08049637         subl       $0x8, %esp
+0804963a         pushl      $0x63
+0804963c         pushl      %eax                                                ; argument "format" for method j_printf
+0804963d         call       j_printf
+08049642         addl       $0x10, %esp
+08049645         movl       __TMC_END__, %eax                                   ; __TMC_END__
+0804964a         subl       $0x4, %esp
+0804964d         pushl      %eax                                                ; argument "stream" for method j_fgets
+0804964e         pushl      $0x20                                               ; argument "size" for method j_fgets
+08049650         leal       var_4E(%ebp), %eax
+08049653         pushl      %eax                                                ; argument "str" for method j_fgets
+08049654         call       j_fgets
+08049659         addl       $0x10, %esp
+0804965c         subl       $0x8, %esp
+0804965f         pushl      $0x8049a27                                          ; argument "s2" for method j_strcspn
+08049664         leal       var_4E(%ebp), %eax
+08049667         pushl      %eax                                                ; argument "s1" for method j_strcspn
+08049668         call       j_strcspn
+0804966d         addl       $0x10, %esp
+08049670         movb       $0x0, var_4E(%ebp,%eax)
+08049675         subl       $0x8, %esp
+08049678         leal       var_4E(%ebp), %eax
+0804967b         pushl      %eax                                                ; argument "s2" for method j_strcmp
+0804967c         leal       var_2E(%ebp), %eax
+0804967f         pushl      %eax                                                ; argument "s1" for method j_strcmp
+08049680         call       j_strcmp
+08049685         addl       $0x10, %esp
+08049688         testl      %eax, %eax
+0804968a         jne        loc_8049693
+
+0804968c         movl       $0x1, %eax
+08049691         jmp        loc_8049698
+
+             loc_8049693:
+08049693         movl       $0x0, %eax                                          ; CODE XREF=bonus+167
+
+             loc_8049698:
+08049698         movl       var_C(%ebp), %edx                                   ; CODE XREF=bonus+174
+0804969b         xorl       %gs:0x14, %edx
+080496a2         je         loc_80496a9
+
+080496a4         call       j___stack_chk_fail
+                        ; endp
+
+             loc_80496a9:
+080496a9         leave                                                          ; CODE XREF=bonus+191
+080496aa         ret
+                        ; endp
