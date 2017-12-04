@@ -2,6 +2,13 @@
 
 This is a collection of my writeups for challenges in [GryphonCTF 2017](https://2017.gryphonctf.com/) which took place from 04 Oct - 10 Oct 2017
 
+## Result
+> 3rd place / 2400 points
+
+> [Challenge screenshot](screencapture-2017-gryphonctf-challenges-1507628285827.png)
+
+> [Scoreboard screenshot](screencapture-2017-gryphonctf-scoreboard-1507628269340.png)
+
 ## Practice
 *Challenges released prior to start of competition*
 
